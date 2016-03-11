@@ -9,8 +9,7 @@ character art and tileset art, just have been working on the game mechanics for 
 
 What is completed so far:
 
-1. Created some maps, using Tiled on mac. Was difficult figuring how to export them to Unity on mac, but found a work around
-that has been working great.
+1. Created some maps, using Tiled on mac. Was difficult figuring how to export with TiledToUnity to Unity on mac, but found a work around that has been working great.
 
 2. Created the player and player animations, added an idle state and directional walking states
 
@@ -22,9 +21,15 @@ that has been working great.
 
 Plans(No particular order):
 1. Create own pixel art.
+
 2. Add a turn based fighting implementation.
+
 3. An enemy(s) entity and AI
+
 4. Multiplayer implementation
+
 5. User Interface
+
 6. Save states
+
 7. Inventory System
