@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 4b3697e22473f451fb2208e7da41f4dc
+timeCreated: 1456895985
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: female_walkcycle_0
+    21300002: female_walkcycle_1
+    21300004: female_walkcycle_2
+    21300006: female_walkcycle_3
+    21300008: female_walkcycle_4
+    21300010: female_walkcycle_5
+    21300012: female_walkcycle_6
+    21300014: female_walkcycle_7
+    21300016: female_walkcycle_8
+    21300018: female_walkcycle_9
+    21300020: female_walkcycle_10
+    21300022: female_walkcycle_11
+    21300024: female_walkcycle_12
+    21300026: female_walkcycle_13
+    21300028: female_walkcycle_14
+    21300030: female_walkcycle_15
+    21300032: female_walkcycle_16
+    21300034: female_walkcycle_17
+    21300036: female_walkcycle_18
+    21300038: female_walkcycle_19
+    21300040: female_walkcycle_20
+    21300042: female_walkcycle_21
+    21300044: female_walkcycle_22
+    21300046: female_walkcycle_23
+    21300048: female_walkcycle_24
+    21300050: female_walkcycle_25
+    21300052: female_walkcycle_26
+    21300054: female_walkcycle_27
+    21300056: female_walkcycle_28
+    21300058: female_walkcycle_29
+    21300060: female_walkcycle_30
+    21300062: female_walkcycle_31
+    21300064: female_walkcycle_32
+    21300066: female_walkcycle_33
+    21300068: female_walkcycle_34
+    21300070: female_walkcycle_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: female_walkcycle_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -12, y: 16}
+        - {x: -16, y: -6}
+        - {x: -16, y: -20}
+        - {x: -10, y: -31}
+        - {x: 10, y: -31}
+        - {x: 16, y: -23}
+        - {x: 16, y: 16}
+        - {x: 9, y: 19}
+    - name: female_walkcycle_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -8, y: 19}
+        - {x: -16, y: 9}
+        - {x: -16, y: -21}
+        - {x: -9, y: -31}
+        - {x: 9, y: -31}
+        - {x: 16, y: -20}
+        - {x: 16, y: 1}
+        - {x: 15, y: 8}
+    - name: female_walkcycle_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -15, y: 17}
+        - {x: -15, y: -29}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 16}
+        - {x: 13, y: 18}
+    - name: female_walkcycle_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -22}
+        - {x: -6, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -28}
+        - {x: 14, y: -12}
+        - {x: 14, y: 12}
+        - {x: 12, y: 19}
+    - name: female_walkcycle_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -22}
+        - {x: -11, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+        - {x: -6, y: 19}
+        - {x: -12, y: 16}
+        - {x: -16, y: -5}
+    - name: female_walkcycle_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -19}
+        - {x: -7, y: -31}
+        - {x: 10, y: -31}
+        - {x: 16, y: -21}
+        - {x: 16, y: 5}
+        - {x: 11, y: 19}
+    - name: female_walkcycle_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -14, y: 16}
+        - {x: -15, y: 4}
+        - {x: -15, y: -21}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 15, y: -18}
+        - {x: 15, y: 15}
+        - {x: 9, y: 18}
+    - name: female_walkcycle_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -14, y: -21}
+        - {x: -11, y: -32}
+        - {x: 4, y: -32}
+        - {x: 13, y: -29}
+        - {x: 14, y: -28}
+        - {x: 14, y: 19}
+    - name: female_walkcycle_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 5}
+        - {x: -16, y: -22}
+        - {x: -11, y: -32}
+        - {x: 4, y: -32}
+        - {x: 6, y: -31}
+        - {x: 16, y: -20}
+        - {x: 16, y: 16}
+        - {x: 9, y: 19}
+    - name: female_walkcycle_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -10, y: 16}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 18}
+    - name: female_walkcycle_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -12, y: 7}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 17}
+    - name: female_walkcycle_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 17}
+        - {x: -5, y: 17}
+        - {x: -10, y: 11}
+        - {x: -10, y: 0}
+        - {x: -9, y: -12}
+        - {x: -10, y: -18}
+        - {x: -10, y: -30}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -26}
+        - {x: 13, y: 12}
+    - name: female_walkcycle_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 14}
+        - {x: 9, y: 17}
+        - {x: 6, y: 18}
+        - {x: -3, y: 18}
+        - {x: -6, y: 17}
+        - {x: -10, y: 13}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 15, y: -21}
+        - {x: 15, y: -5}
+        - {x: 14, y: 11}
+    - name: female_walkcycle_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: -6, y: 18}
+        - {x: -12, y: 14}
+        - {x: -12, y: -31}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -31}
+        - {x: 16, y: -24}
+        - {x: 16, y: -2}
+        - {x: 14, y: 11}
+    - name: female_walkcycle_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -13, y: 15}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 12}
+        - {x: 12, y: 17}
+    - name: female_walkcycle_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 17}
+        - {x: -11, y: 17}
+        - {x: -11, y: -28}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 11}
+    - name: female_walkcycle_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -10, y: 12}
+        - {x: -10, y: -26}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 14}
+        - {x: 12, y: 18}
+    - name: female_walkcycle_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: -5, y: 18}
+        - {x: -10, y: 12}
+        - {x: -10, y: -30}
+        - {x: -7, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -31}
+        - {x: 13, y: -22}
+        - {x: 13, y: 13}
+    - name: female_walkcycle_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 5}
+        - {x: -16, y: -28}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 14}
+        - {x: 14, y: 19}
+    - name: female_walkcycle_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -8, y: 19}
+        - {x: -16, y: 15}
+        - {x: -16, y: -17}
+        - {x: -13, y: -23}
+        - {x: -10, y: -28}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: -1}
+        - {x: 13, y: 13}
+    - name: female_walkcycle_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: female_walkcycle_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18}
+        - {x: -10, y: 18}
+        - {x: -14, y: 10}
+        - {x: -14, y: -21}
+        - {x: -13, y: -29}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -31}
+        - {x: 15, y: -18}
+        - {x: 15, y: 1}
+        - {x: 13, y: 12}
+    - name: female_walkcycle_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 3}
+        - {x: -16, y: -22}
+        - {x: -11, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 17}
+        - {x: 10, y: 19}
+    - name: female_walkcycle_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 4}
+        - {x: -16, y: -26}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -27}
+        - {x: 16, y: 8}
+        - {x: 12, y: 19}
+    - name: female_walkcycle_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -12, y: 19}
+        - {x: -16, y: 4}
+        - {x: -16, y: -25}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -29}
+        - {x: 15, y: -27}
+        - {x: 15, y: 13}
+    - name: female_walkcycle_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -15, y: 15}
+        - {x: -15, y: -30}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -28}
+        - {x: 14, y: 11}
+        - {x: 11, y: 18}
+    - name: female_walkcycle_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 3}
+        - {x: -16, y: -25}
+        - {x: -10, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 11}
+        - {x: 13, y: 19}
+    - name: female_walkcycle_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -14, y: 10}
+        - {x: -14, y: -25}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 13}
+        - {x: 6, y: 18}
+    - name: female_walkcycle_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -13, y: 15}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 16}
+        - {x: 9, y: 17}
+    - name: female_walkcycle_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -13, y: 16}
+        - {x: -13, y: -18}
+        - {x: -12, y: -29}
+        - {x: -7, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -31}
+        - {x: 10, y: 13}
+        - {x: 8, y: 17}
+    - name: female_walkcycle_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -14, y: 11}
+        - {x: -15, y: 8}
+        - {x: -15, y: -23}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 14}
+        - {x: 5, y: 18}
+    - name: female_walkcycle_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -13, y: 11}
+        - {x: -16, y: -5}
+        - {x: -16, y: -26}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 15}
+        - {x: 6, y: 18}
+    - name: female_walkcycle_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -16, y: 0}
+        - {x: -16, y: -22}
+        - {x: -15, y: -24}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 13}
+        - {x: 7, y: 17}
+    - name: female_walkcycle_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -16, y: 6}
+        - {x: -16, y: -24}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -23}
+        - {x: 11, y: 11}
+        - {x: 5, y: 17}
+    - name: female_walkcycle_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -1}
+        - {x: -15, y: -24}
+        - {x: -10, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -31}
+        - {x: 10, y: 18}
+        - {x: -9, y: 18}
+        - {x: -14, y: 11}
+    - name: female_walkcycle_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: -11, y: 18}
+        - {x: -13, y: 16}
+        - {x: -13, y: -24}
+        - {x: -12, y: -31}
+        - {x: -11, y: -32}
+        - {x: 7, y: -32}
+        - {x: 9, y: -30}
+        - {x: 10, y: -18}
+        - {x: 10, y: 14}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/UnityEngine.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/UnityEditor.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/UnityEngine.Networking.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Mono.Cecil.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Unity.CecilTools.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/Temp/bin/Debug/Assembly-CSharp.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/obj/Debug/Assembly-CSharp.dll
+/Volumes/Ballin' On A Budget/Unity/RPG Attempt/obj/Debug/Assembly-CSharp.dll.mdb
