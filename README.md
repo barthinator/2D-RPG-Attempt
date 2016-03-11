@@ -20,6 +20,7 @@ What is completed so far:
 5. Just finished making screen fading events for when the player "warps" to a different location.
 
 Plans(No particular order):
+
 1. Create own pixel art.
 
 2. Add a turn based fighting implementation.
